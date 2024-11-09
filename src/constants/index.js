@@ -73,10 +73,10 @@ export const CONTACT_CONTENT = {
     },
     {
       platform: "LinkedIn",
-      url: "www.linkedin.com/in/malin-ekanayake-92a86b26b",
+      url: "https://www.linkedin.com/in/malin-ekanayake-92a86b26b",
       ariaLabel: "Connect with me on LinkedIn",
       icon: "RiLinkedinFill",
     },
   ],
-  footerText: `© ${new Date().getFullYear()} Jason Root. All rights reserved.`,
+  footerText: `© ${new Date().getFullYear()} Malin Ashmitha Ekanayake. All rights reserved.`,
 };
