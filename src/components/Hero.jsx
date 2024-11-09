@@ -57,6 +57,8 @@ const Hero = () => {
                 >
                     {HERO_CONTENT.description}
                 </motion.p>
+
+                {/* 
                 <motion.a
                     className="bg-stone-50 text-stone-900 p-3 lg:p-4 mt-8 inline-block rounded-2xl"
                     href={HERO_CONTENT.resumeLink}
@@ -67,6 +69,8 @@ const Hero = () => {
                 >
                     {HERO_CONTENT.resumeLinkText}
                 </motion.a>
+                */}
+                
             </motion.div>
 
             <motion.div
